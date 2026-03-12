@@ -980,7 +980,7 @@ body {
     animation-delay: 2s;
     transition: 1s;
 }
-@keyframes cute3{
+/*@keyframes cute3{
     0%{
         opacity: 1;
         transform: rotate(0deg);
@@ -1001,15 +1001,15 @@ body {
         opacity: 1;
         transform: rotate(0deg);
     }
-}
-@keyframes cute4{
+}*/
+/*@keyframes cute4{
     0%{
         left: 20px;
     }
     100%{
         left: 100px;
     }
-}
+}*/
 .boxMail .boxMail-container .card2 .card2-content .imageCute2 img{
     width: 40px;
 }
